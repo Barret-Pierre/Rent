@@ -1,6 +1,6 @@
 import { Component, Input } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { Housinglocation } from '../housinglocation';
+import { Housinglocation } from '../interfaces/housinglocation';
 
 @Component({
   selector: 'app-housing-location',
